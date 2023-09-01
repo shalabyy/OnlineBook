@@ -7,7 +7,7 @@ simple backend project for an Online Bookstore Management System.
       3- Manage the inventory (e.g., update stock levels, set book
       availability)
 
-   Customer:
+    Customer:
       1- Customers should be able to browse books by categories
       2- View book details
       3- Request to borrow a book.
@@ -20,6 +20,6 @@ simple backend project for an Online Bookstore Management System.
   ModelMapper: ModelMapper is a simple, intelligent object mapping tool. It is used to map the object in this project.
       
 
-# Steps To Run The Application
-  1- Make sure to add IP-address for your MySQL DataBase and the Username and Password in the application properties file.
-  2- Make sure to run two files in the resources folder data.sql and schema.sql in your DataBase.  
+# Steps To Run The Application:
+    1- Make sure to add IP-address for your MySQL DataBase and the Username and Password in the application properties file.
+    2- Make sure to run two files in the resources folder data.sql and schema.sql in your DataBase.  
